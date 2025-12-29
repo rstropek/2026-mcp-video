@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\10-DemoServer\10-DemoServer.csproj" />
     <ProjectReference Include="..\20-McpStreamableServer\20-McpStreamableServer.csproj" />
+    <ProjectReference Include="..\30-McpStreamableAuth\30-McpStreamableAuth.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
