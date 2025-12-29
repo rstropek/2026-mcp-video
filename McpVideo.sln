@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-Basics", "10-Basics", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-McpServerNoSdk", "10-Basics\10-McpServerNoSdk\10-McpServerNoSdk.csproj", "{2134FDCE-45FE-4F2D-B0FD-312D00A1D55D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-McpServerSdk", "10-Basics\20-McpServerSdk\20-McpServerSdk.csproj", "{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,11 +59,24 @@ Global
 		{2134FDCE-45FE-4F2D-B0FD-312D00A1D55D}.Release|x64.Build.0 = Release|Any CPU
 		{2134FDCE-45FE-4F2D-B0FD-312D00A1D55D}.Release|x86.ActiveCfg = Release|Any CPU
 		{2134FDCE-45FE-4F2D-B0FD-312D00A1D55D}.Release|x86.Build.0 = Release|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Debug|x64.Build.0 = Debug|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Release|x64.ActiveCfg = Release|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Release|x64.Build.0 = Release|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2134FDCE-45FE-4F2D-B0FD-312D00A1D55D} = {2DD996F9-4686-576C-A612-F1C7E10DA9BD}
+		{C0C56E1E-3253-4ED4-8843-42C2CD241FC7} = {2DD996F9-4686-576C-A612-F1C7E10DA9BD}
 	EndGlobalSection
 EndGlobal
